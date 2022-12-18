@@ -1,2 +1,1 @@
-# jenkins-demo1
-hello_devoteam
+# jenkins-demo_hello_devoteam
